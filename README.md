@@ -15,6 +15,6 @@
 > STATUS: Online & Codando...
 > CLASSE: Iniciante em Programação (Dev em formação)
 > MISSÃO ATUAL: Dominar os fundamentos do Desenvolvimento Web e JavaScript
-> HOBBY: Jogos clássicos & Emulação
+> HOBBY: Jogos & Emulação
 
 
