@@ -10,4 +10,11 @@
 > CLASSE: Iniciante em Programação (Dev em formação)
 > MISSÃO ATUAL: Dominar os fundamentos do Desenvolvimento Web e JavaScript
 > HOBBY: Jogos clássicos & Emulação
-[https://instagram.com/thiago.serafim_](https://instagram.com/thiago.serafim_)
+
+### 📡 CONECTAR-SE (Multiplayer)
+
+<div align="left">
+  <a href="https://instagram.com/Thiago.serafim_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
